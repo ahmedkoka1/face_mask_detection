@@ -1,0 +1,18 @@
+# Core
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Image Processing
+opencv-python
+
+# Machine Learning / Deep Learning
+tensorflow
+scikit-learn
+
+# Jupyter
+notebook
+jupyterlab
